@@ -6,6 +6,8 @@
 
 This application is designed to let the user save and view notes.
 
+![screenshot](Assets/pic.png)
+
 ## Table of Contents
 
 - [Installation Instructions](#Installation_Instructions)
